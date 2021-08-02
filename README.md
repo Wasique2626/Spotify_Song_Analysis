@@ -1,6 +1,8 @@
 # Spotify_Song_Analysis
 
-PART A: Visualized my Spotify listening data using Google Data Studio.
+PART A: Visualized my Spotify listening data using Google Data Studio. 
+
+👉 https://medium.com/@jhadhruv206/visualizing-my-spotify-listening-data-acced2e164ba
 
 PART B: Analysed my Spotify streaming history and compared it with what the world listens to
 
